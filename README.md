@@ -1,35 +1,52 @@
 <div align="center">
 
-<img src="./images/aurora.png" width="100%" alt="Aurora">
+<table width="100%">
+<tr>
+<td>
+
+<img src="https://thehoneymoonboutiquemx.com/wp-content/uploads/2024/09/1-experience-northern-lights.webp" width="100%" alt="Northern Lights">
+
+</td>
+</tr>
+</table>
 
 <br>
 
-# 𝐇𝐞𝐥𝐥𝐨𝐨𝐨𝐨, 𝐈 𝐚𝐦 𝐕𝐢𝐜𝐭𝐨𝐫𝐢𝐚
+<h1>𝓗𝓮𝓵𝓵𝓸𝓸𝓸, 𝓘 𝓪𝓶 𝓥𝓲𝓬𝓽𝓸𝓻𝓲𝓪</h1>
 
-### 𝖺 𝗅𝗂𝗍𝗍𝗅𝖾 𝖼𝗈𝗋𝗇𝖾𝗋 𝗈𝖿 𝗆𝗒 𝖼𝗋𝖾𝖺𝗍𝗂𝗏𝗂𝗍𝗒
-
-─────── ✦ ───────
-
-</div>
+<p>
+<em>a little corner of my creativity</em>
+</p>
 
 <br>
 
-<table align="center" width="90%">
+<table width="90%" align="center">
 <tr>
 
-<td width="52%" valign="middle">
+<td width="55%" valign="middle">
 
-# 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
+<h2>About me</h2>
 
-I’m **Victoria**, a creative and curious student.
+<p>
+I'm <strong>Victoria</strong>, a creative and curious student.
+</p>
 
-I love **reading, adventures and makeup**, and I enjoy turning ideas into projects that have a purpose.
+<p>
+I love <strong>reading, adventures and makeup</strong>, and I enjoy turning ideas into projects that have a purpose.
+</p>
 
 </td>
 
-<td width="48%" align="center">
+<td width="45%" align="center">
 
-<img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=85" width="280">
+<h2>My world</h2>
+
+<p>
+Reading<br>
+Adventures<br>
+Makeup<br>
+Creativity
+</p>
 
 </td>
 
@@ -38,120 +55,106 @@ I love **reading, adventures and makeup**, and I enjoy turning ideas into projec
 
 <br>
 
-<div align="center">
+<table width="90%" align="center" bgcolor="#E6F8FF">
+<tr>
+<td align="center">
 
-# 𝐒𝐤𝐢𝐥𝐥𝐬
+<h2>Skills</h2>
 
-<br>
+<img src="https://img.shields.io/badge/Python%20Essential%201-69CFF5?style=for-the-badge&logo=python&logoColor=white">
 
-<img src="https://img.shields.io/badge/Python%20Essential%201-8ED8F8?style=for-the-badge&logo=python&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Excel-48BFE3?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-<img src="https://img.shields.io/badge/Excel-55B7DF?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Excel%20Expert-239BC5?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-<img src="https://img.shields.io/badge/Excel%20Expert-238BC4?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff">
-
-<br><br>
-
-─────── ✦ ───────
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
-# 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+<h2 align="center">𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼</h2>
+
+<table width="90%" align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>Flora Papel</h3>
+
+<p>
+<strong>Handmade paper with seeds.</strong>
+</p>
+
+<p>
+Sustainability · Nature · Creativity
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Panaroot</h3>
+
+<p>
+<strong>A visual project that showcases Panama.</strong>
+</p>
+
+<p>
+Tourism · Culture · Visual Design
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table width="90%" align="center" bgcolor="#E6F8FF">
+<tr>
+<td align="center">
+
+<h2>Things I love</h2>
 
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
-
-## 𝐅𝐥𝐨𝐫𝐚 𝐏𝐚𝐩𝐞𝐥
-
-**Handmade paper with seeds.**
-
-Sustainability · Nature · Creativity
-
+<td align="center">
+<h3>Reading</h3>
 </td>
 
-<td width="50%" valign="top">
+<td align="center">
+<h3>Adventures</h3>
+</td>
 
-## 𝐏𝐚𝐧𝐚𝐫𝐨𝐨𝐭
+<td align="center">
+<h3>Makeup</h3>
+</td>
 
-**A visual project that showcases Panama.**
-
-Tourism · Culture · Design
-
+<td align="center">
+<h3>Creativity</h3>
 </td>
 
 </tr>
 </table>
 
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-# 𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐥𝐨𝐯𝐞
-
-<table width="90%">
-<tr>
-
-<td align="center" width="25%">
-
-<img src="https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=400&q=85" width="150">
-
-<br><br>
-
-𝐑𝐄𝐀𝐃𝐈𝐍𝐆
-
 </td>
-
-<td align="center" width="25%">
-
-<img src="https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=400&q=85" width="150">
-
-<br><br>
-
-𝐀𝐃𝐕𝐄𝐍𝐓𝐔𝐑𝐄𝐒
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=400&q=85" width="150">
-
-<br><br>
-
-𝐌𝐀𝐊𝐄𝐔𝐏
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=400&q=85" width="150">
-
-<br><br>
-
-𝐂𝐑𝐄𝐀𝐓𝐈𝐕𝐈𝐓𝐘
-
-</td>
-
 </tr>
 </table>
 
-<br><br>
+<br>
 
-─────── ✦ ───────
+<p align="center">
+────────────── ✦ ──────────────
+</p>
 
-<br><br>
+<h3 align="center">
+CREATE · DREAM · DISCOVER
+</h3>
 
-### 𝐂𝐑𝐄𝐀𝐓𝐄  ·  𝐃𝐑𝐄𝐀𝐌  ·  𝐃𝐈𝐒𝐂𝐎𝐕𝐄
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8ED8F8&height=120&section=footer" width="100%">
+<p align="center">
+────────────── ✦ ──────────────
+</p>
 
 </div>
