@@ -2,7 +2,6 @@
 
 # ✨ Helloooo, I am Victoria! 💙
 
-<img src="BANNER_AQUI" width="100%" alt="Hellooo, I am Victoria">
 
 ### 🩵 Welcome to my little corner of GitHub!
 
