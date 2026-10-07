@@ -1,79 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8ED8F8&height=230&section=header&text=𝓗𝓮𝓵𝓵𝓸𝓸𝓸,%20𝓘%20𝓪𝓶%20𝓥𝓲𝓬𝓽𝓸𝓻𝓲𝓪&fontSize=42&fontColor=ffffff&fontAlignY=45" width="100%"/>
+<img src="./images/aurora.png" width="100%" alt="Aurora">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Parisienne&size=25&duration=3000&pause=1000&color=238BC4&center=true&vCenter=true&width=600&lines=creative+mind;lover+of+books+%26+adventures;always+creating+something+new" />
+# 𝐇𝐞𝐥𝐥𝐨𝐨𝐨𝐨, 𝐈 𝐚𝐦 𝐕𝐢𝐜𝐭𝐨𝐫𝐢𝐚
+
+### 𝖺 𝗅𝗂𝗍𝗍𝗅𝖾 𝖼𝗈𝗋𝗇𝖾𝗋 𝗈𝖿 𝗆𝗒 𝖼𝗋𝖾𝖺𝗍𝗂𝗏𝗂𝗍𝗒
+
+─────── ✦ ───────
 
 </div>
 
 <br>
 
+<table align="center" width="90%">
+<tr>
+
+<td width="52%" valign="middle">
+
+# 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
+
+I’m **Victoria**, a creative and curious student.
+
+I love **reading, adventures and makeup**, and I enjoy turning ideas into projects that have a purpose.
+
+</td>
+
+<td width="48%" align="center">
+
+<img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=85" width="280">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
-## 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒
-
-<table>
-<tr>
-<td width="55%" valign="middle">
-
-I'm **Victoria**.
-
-I love reading, adventures, makeup and creating new ideas.
-
-I enjoy turning simple ideas into projects with purpose.
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=500&q=80" width="260">
-
-</td>
-</tr>
-</table>
+# 𝐒𝐤𝐢𝐥𝐥𝐬
 
 <br>
 
-## 𝒮𝓀𝒾𝓁𝓁𝓈
+<img src="https://img.shields.io/badge/Python%20Essential%201-8ED8F8?style=for-the-badge&logo=python&logoColor=ffffff">
 
-<img src="https://img.shields.io/badge/Python%20Essential%201-8ED8F8?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-55B7DF?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff">
 
-<img src="https://img.shields.io/badge/Excel-55B7DF?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-
-<img src="https://img.shields.io/badge/Excel%20Expert-238BC4?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Excel%20Expert-238BC4?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff">
 
 <br><br>
 
----
+─────── ✦ ───────
 
-## 𝒫𝓇𝑜𝒿𝑒𝒸𝓉𝓈
+</div>
 
-<table>
+<br>
+
+# 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+
+<table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<img src="./images/flora-papel.png" width="100%">
+## 𝐅𝐥𝐨𝐫𝐚 𝐏𝐚𝐩𝐞𝐥
 
-### 𝓕𝓵𝓸𝓻𝓪 𝓟𝓪𝓹𝓮𝓵
+**Handmade paper with seeds.**
 
-**Handmade paper + seeds**
-
-Sustainability • Nature • Creativity
+Sustainability · Nature · Creativity
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<img src="./images/panaroot.png" width="100%">
+## 𝐏𝐚𝐧𝐚𝐫𝐨𝐨𝐭
 
-### 𝓟𝓪𝓷𝓪𝓻𝓸𝓸𝓽
+**A visual project that showcases Panama.**
 
-**Discover Panama**
-
-Tourism • Culture • Visual Design
+Tourism · Culture · Design
 
 </td>
 
@@ -84,33 +90,67 @@ Tourism • Culture • Visual Design
 
 ---
 
-## 𝒯𝒽𝒾𝓃𝑔𝓈 𝐼 𝓁𝑜𝓋𝑒
+<br>
 
-<table>
+<div align="center">
+
+# 𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐥𝐨𝐯𝐞
+
+<table width="90%">
 <tr>
 
-<td align="center">
-<img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=300&q=80" width="150">
+<td align="center" width="25%">
+
+<img src="https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=400&q=85" width="150">
+
 <br><br>
-𝓡𝓮𝓪𝓭𝓲𝓷𝓰
+
+𝐑𝐄𝐀𝐃𝐈𝐍𝐆
+
 </td>
 
-<td align="center">
-<img src="https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=300&q=80" width="150">
+<td align="center" width="25%">
+
+<img src="https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=400&q=85" width="150">
+
 <br><br>
-𝓐𝓭𝓿𝓮𝓷𝓽𝓾𝓻𝓮𝓼
+
+𝐀𝐃𝐕𝐄𝐍𝐓𝐔𝐑𝐄𝐒
+
 </td>
 
-<td align="center">
-<img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=300&q=80" width="150">
+<td align="center" width="25%">
+
+<img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=400&q=85" width="150">
+
 <br><br>
-𝓜𝓪𝓴𝓮𝓾𝓹
+
+𝐌𝐀𝐊𝐄𝐔𝐏
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=400&q=85" width="150">
+
+<br><br>
+
+𝐂𝐑𝐄𝐀𝐓𝐈𝐕𝐈𝐓𝐘
+
 </td>
 
 </tr>
 </table>
 
-<br>
+<br><br>
+
+─────── ✦ ───────
+
+<br><br>
+
+### 𝐂𝐑𝐄𝐀𝐓𝐄  ·  𝐃𝐑𝐄𝐀𝐌  ·  𝐃𝐈𝐒𝐂𝐎𝐕𝐄
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8ED8F8&height=120&section=footer" width="100%">
 
