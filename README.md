@@ -1,83 +1,86 @@
-# ¡Hola! 👋 Soy Victoria
+<div align="center">
 
-### 💻 Estudiante | 🌎 Apasionada por la tecnología | 🚀 Siempre aprendiendo
+# ✨ Helloooo, I am Victoria! 💙
 
-Bienvenido/a a mi perfil de GitHub 💜
+<img src="BANNER_AQUI" width="100%" alt="Hellooo, I am Victoria">
 
-Soy una persona **proactiva, responsable y curiosa**, a la que le gusta aprender cosas nuevas, resolver problemas y convertir ideas en proyectos.
+### 🩵 Welcome to my little corner of GitHub!
 
----
-
-## ✨ Sobre mí
-
-- 🎓 Actualmente estoy estudiando y desarrollando nuevas habilidades.
-- 💻 Me interesa el mundo de la tecnología y el desarrollo.
-- 🌱 Siempre estoy aprendiendo algo nuevo.
-- 💡 Me gusta transformar ideas en proyectos.
-- 🤝 Disfruto trabajar en equipo y colaborar con otras personas.
-- 🎯 Mi objetivo es seguir creciendo tanto personal como profesionalmente.
+</div>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  About Me
 
-### 💻 Lenguajes
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Hi! I'm **Victoria**, a curious and creative student who loves learning, exploring new ideas, and turning them into something real.
 
-### 🔧 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I believe every project is an opportunity to learn something new, make a difference, and let a little bit of creativity shine. ✨
 
----
-
-## 🚀 Mis proyectos
-
-### 🌱 Proyecto 1 — Nombre del proyecto
-> Breve descripción de lo que hace el proyecto y qué problema busca resolver.
-
-🔗 [Ver proyecto](#)
-
-### 💡 Proyecto 2 — Nombre del proyecto
-> Una pequeña descripción del proyecto, sus funciones y tecnologías utilizadas.
-
-🔗 [Ver proyecto](#)
-
-### 🌎 Proyecto 3 — Nombre del proyecto
-> Descripción corta y atractiva del proyecto.
-
-🔗 [Ver proyecto](#)
+ Amante de la lectura  
+ Apasionada por las aventuras  
+ Fan del maquillaje  
+ Me encanta crear y aprender cosas nuevas  
+ Siempre buscando nuevas experiencias
 
 ---
 
-## 📊 Mis estadísticas
+##  My Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+<img src="https://img.shields.io/badge/Python%20Essential%201-61C7F2?style=for-the-badge&logo=python&logoColor=white">
 
----
+<img src="https://img.shields.io/badge/Excel-238BC4?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-## 🎯 Actualmente
+<img src="https://img.shields.io/badge/Excel%20Expert-165A7A?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-🌱 Aprendiendo nuevas tecnologías  
-💻 Trabajando en nuevos proyectos  
-📚 Mejorando mis habilidades  
-🚀 Buscando nuevos retos  
+</p>
 
 ---
 
-## 📫 Conecta conmigo
+##  My Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+### Flora Papel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+A project focused on creating **handmade paper with embedded seeds**.
+
+The idea combines creativity, sustainability, and nature by giving paper a second life. Instead of simply throwing it away, it can become something that grows. 🌱
 
 ---
 
-### 💜 "No solo quiero aprender tecnología, quiero usarla para crear algo que tenga un propósito."
+### 🇵🇦 Panaroots
 
-⭐ Gracias por visitar mi perfil.
+A tourism project created to **show the beauty and cultural essence of Panama**.
+
+My role focuses on **image design**, helping communicate Panama through its landscapes, culture, traditions, and experiences.
+
+> ✨ *Feel the essence of Panama.*
+
+---
+
+## 💫 What I Love
+
+| Reading | Adventures | Makeup |
+|:---:|:---:|:---:|
+| Stories & new worlds | Exploring & discovering | Creativity & self-expression |
+
+---
+
+##  Currently
+
+ Learning  
+ Creating  
+ Reading  
+ Exploring  
+ Dreaming  
+ Growing
+
+---
+
+<div align="center">
+
+### 💙 “Keep learning. Keep creating. Keep exploring.” ✨
+
+ Thanks for visiting my profile!
+
+</div>
