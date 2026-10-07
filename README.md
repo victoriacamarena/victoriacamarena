@@ -1,52 +1,29 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td>
+<!-- 🌌 AURORA BANNER -->
+<img src="./assets/aurora-banner.svg" width="100%" alt="Victoria Aurora Banner">
 
-<img src="https://thehoneymoonboutiquemx.com/wp-content/uploads/2024/09/1-experience-northern-lights.webp" width="100%" alt="Northern Lights">
+<br><br>
 
-</td>
-</tr>
-</table>
+<h2>𓂃  About me 𓂃</h2>
 
-<br>
-
-<h1>𝓗𝓮𝓵𝓵𝓸𝓸𝓸, 𝓘 𝓪𝓶 𝓥𝓲𝓬𝓽𝓸𝓻𝓲𝓪</h1>
-
-<p>
-<em>a little corner of my creativity</em>
-</p>
-
-<br>
-
-<table width="90%" align="center">
+<table width="92%" align="center">
 <tr>
 
-<td width="55%" valign="middle">
+<td width="58%" valign="middle">
 
-<h2>About me</h2>
+I’m <b>Victoria</b> — a curious and creative student who loves turning ideas into projects.
 
-<p>
-I'm <strong>Victoria</strong>, a creative and curious student.
-</p>
+<br><br>
 
-<p>
-I love <strong>reading, adventures and makeup</strong>, and I enjoy turning ideas into projects that have a purpose.
-</p>
+I enjoy <b>reading, adventures, makeup, creativity</b> and learning something new whenever I can.
 
 </td>
 
-<td width="45%" align="center">
+<td width="42%" align="center">
 
-<h2>My world</h2>
-
-<p>
-Reading<br>
-Adventures<br>
-Makeup<br>
-Creativity
-</p>
+<img src="./assets/reading.svg" width="145">
+<img src="./assets/adventures.svg" width="145">
 
 </td>
 
@@ -55,11 +32,35 @@ Creativity
 
 <br>
 
-<table width="90%" align="center" bgcolor="#E6F8FF">
+<h2>𓂃  A little about my world 𓂃</h2>
+
+<table width="92%" align="center">
 <tr>
+
 <td align="center">
+<img src="./assets/reading.svg" width="190">
+</td>
 
-<h2>Skills</h2>
+<td align="center">
+<img src="./assets/adventures.svg" width="190">
+</td>
+
+<td align="center">
+<img src="./assets/makeup.svg" width="190">
+</td>
+
+<td align="center">
+<img src="./assets/creativity.svg" width="190">
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h2>𓂃  Skills & certifications 𓂃</h2>
+
+<br>
 
 <img src="https://img.shields.io/badge/Python%20Essential%201-69CFF5?style=for-the-badge&logo=python&logoColor=white">
 
@@ -67,28 +68,24 @@ Creativity
 
 <img src="https://img.shields.io/badge/Excel%20Expert-239BC5?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-</td>
-</tr>
-</table>
+<br><br>
+
+<h2>𓂃  Projects 𓂃</h2>
 
 <br>
 
-<h2 align="center">𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼</h2>
-
-<table width="90%" align="center">
+<table width="92%" align="center">
 <tr>
 
 <td width="50%" valign="top">
 
 <h3>Flora Papel</h3>
 
-<p>
-<strong>Handmade paper with seeds.</strong>
-</p>
+<b>Handmade paper with embedded seeds.</b>
 
-<p>
+<br><br>
+
 Sustainability · Nature · Creativity
-</p>
 
 </td>
 
@@ -96,65 +93,25 @@ Sustainability · Nature · Creativity
 
 <h3>Panaroot</h3>
 
-<p>
-<strong>A visual project that showcases Panama.</strong>
-</p>
+<b>A tourism project that showcases the essence of Panama.</b>
 
-<p>
+<br><br>
+
 Tourism · Culture · Visual Design
-</p>
 
 </td>
 
 </tr>
 </table>
+
+<br><br>
+
+<p>
+<i>Creating, learning and discovering — one idea at a time.</i>
+</p>
 
 <br>
 
-<table width="90%" align="center" bgcolor="#E6F8FF">
-<tr>
-<td align="center">
-
-<h2>Things I love</h2>
-
-<table width="100%">
-<tr>
-
-<td align="center">
-<h3>Reading</h3>
-</td>
-
-<td align="center">
-<h3>Adventures</h3>
-</td>
-
-<td align="center">
-<h3>Makeup</h3>
-</td>
-
-<td align="center">
-<h3>Creativity</h3>
-</td>
-
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-────────────── ✦ ──────────────
-</p>
-
-<h3 align="center">
-CREATE · DREAM · DISCOVER
-</h3>
-
-<p align="center">
-────────────── ✦ ──────────────
-</p>
+✦ ───────────────────── ✦
 
 </div>
